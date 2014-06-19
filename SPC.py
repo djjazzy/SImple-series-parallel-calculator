@@ -1,3 +1,6 @@
+#!usr/bin/python
+#PYthon 2.7, IDE = Geany
+
 import Tkinter as tk
 
 class ParSerCal(tk.Tk):
